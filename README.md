@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hcsaral
 - 👀 I’m interested in backend development with Django framework of Python and data analysis with Python
-- 🌱 I’m currently learning ML using Python and cloudy deployment of ML algorithms
+- 🌱 I’m currently learning ML using Python and cloud deployment of ML algorithms
 - 📫 I am on Twitter 
 
 <!---
